@@ -23,6 +23,9 @@ img{
 body{
     overflow-x: hidden;
 }
+html{
+    overflow-x: hidden;
+}
 /*=========== All common css end =========== */
 /* ===========Registration part start===========  */
 #registration{
